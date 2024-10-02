@@ -20,6 +20,8 @@
 5. [✅]3, 4번 조건 외의 라이브러리는 자유롭게 사용하셔도 됩니다
 
 # 시연영상
+![제목 없음 5](https://github.com/user-attachments/assets/cac0f073-a376-4ef2-a900-919fff5b82fe)
+![제목 없음 2](https://github.com/user-attachments/assets/c12a093e-7a9a-435f-898e-dcb81a325e53)
 
 ### 실행
 
